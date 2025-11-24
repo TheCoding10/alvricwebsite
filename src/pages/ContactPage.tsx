@@ -51,7 +51,7 @@ export function ContactPage() {
               {
                 icon: Phone,
                 label: 'Phone',
-                value: '+1 (555) 123-4567',
+                value: '+1 (401) 489-9230',
               },
               {
                 icon: MapPin,
