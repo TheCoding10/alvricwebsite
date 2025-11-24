@@ -93,7 +93,7 @@ export function HomePage() {
 
           <div className="grid grid-cols-3 gap-8 max-w-2xl mx-auto mb-20 text-center">
             <div>
-              <div className="text-4xl font-bold text-gray-900 mb-2">500+</div>
+              <div className="text-4xl font-bold text-gray-900 mb-2">20+</div>
               <div className="text-gray-600 text-sm">Projects Delivered</div>
             </div>
             <div className="border-x border-gray-200">
