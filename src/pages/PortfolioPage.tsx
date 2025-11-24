@@ -118,8 +118,8 @@ export function PortfolioPage() {
 
           <div className="grid md:grid-cols-4 gap-8">
             {[
-              { label: 'Projects Delivered', value: '500+' },
-              { label: 'Happy Clients', value: '200+' },
+              { label: 'Projects Delivered', value: '10+' },
+              { label: 'Happy Clients', value: '10+' },
               { label: 'Team Members', value: '150+' },
               { label: 'Years of Experience', value: '15+' },
             ].map((stat, index) => (
