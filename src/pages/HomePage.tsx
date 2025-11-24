@@ -101,7 +101,7 @@ export function HomePage() {
               <div className="text-gray-600 text-sm">Team Members</div>
             </div>
             <div>
-              <div className="text-4xl font-bold text-gray-900 mb-2">2+</div>
+              <div className="text-4xl font-bold text-gray-900 mb-2">7+</div>
               <div className="text-gray-600 text-sm">Years Experience</div>
             </div>
           </div>
