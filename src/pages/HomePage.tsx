@@ -39,7 +39,7 @@ const testimonials = [
     name: 'James Mitchell',
     company: 'TechVentures Inc.',
     quote: 'Alvric delivered an exceptional custom platform that transformed our business operations. Their team is incredibly talented and responsive.',
-    image: 'https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=100&h=100&fit=crop',
+    image: 'https://i.imgur.com/bBM3ZnP.jpg',
   },
   {
     name: 'Sarah Chen',
