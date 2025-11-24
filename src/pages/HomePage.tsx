@@ -48,10 +48,10 @@ const testimonials = [
     image: 'https://i.imgur.com/VjflLJp.jpeg',
   },
   {
-    name: 'Michael Rodriguez',
-    company: 'GlobalCorp Solutions',
+    name: 'Carlos Ramirez',
+    company: 'Gods Voice Ministries',
     quote: 'Best investment in technology we ever made. Alvric went above and beyond our expectations on every front.',
-    image: 'https://images.unsplash.com/photo-1500648767791-00dcc994a43e?w=100&h=100&fit=crop',
+    image: 'https://i.imgur.com/ic3joNd.jpg',
   },
 ];
 
