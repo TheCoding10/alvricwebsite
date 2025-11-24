@@ -23,7 +23,7 @@ export function AboutPage() {
                 From our early work with local contractors, churches, landscaping companies, and service-based businesses, we saw the same pattern everywhere: people were working hard, but their technology was holding them back. We set out to change that.
               </p>
               <p className="text-gray-700 text-lg leading-relaxed">
-                Today, Alvric builds custom websites, automation systems, and AI-powered solutions designed specifically to support small and growing businesses. Our approach is simple: listen closely, understand the real challenges, and deliver software that creates immediate, measurable value.
+                Today, Alvric builds custom web applications, automation systems, and AI-powered solutions designed specifically to support small and growing businesses. Our approach is simple: listen closely, understand the real challenges, and deliver software that creates immediate, measurable value.
               </p>
             </div>
 
