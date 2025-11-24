@@ -5,7 +5,7 @@ const tiers = [
   {
     name: 'Starter',
     subtitle: 'Perfect for small projects',
-    price: 100,
+    price: 300,
     description: 'Ideal for MVPs and smaller web applications',
     features: [
       'Up to 3 months of development',
@@ -23,7 +23,7 @@ const tiers = [
   {
     name: 'Growth',
     subtitle: 'Most popular',
-    price: 500,
+    price: 550,
     description: 'Comprehensive solution for growing businesses',
     features: [
       'Up to 4-6 months of development',
