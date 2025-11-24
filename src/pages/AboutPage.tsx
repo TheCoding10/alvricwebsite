@@ -29,7 +29,7 @@ export function AboutPage() {
 
             <div className="bg-gradient-to-br from-gray-100 to-gray-200 rounded-2xl h-96 flex items-center justify-center">
               <div className="text-center">
-                <div className="text-6xl font-bold text-gray-400 mb-4">500+</div>
+                <div className="text-6xl font-bold text-gray-400 mb-4">20+</div>
                 <p className="text-gray-600 font-semibold">Projects Delivered</p>
               </div>
             </div>
