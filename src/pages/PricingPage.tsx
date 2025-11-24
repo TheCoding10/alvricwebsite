@@ -5,7 +5,7 @@ const tiers = [
   {
     name: 'Starter',
     subtitle: 'Perfect for small projects',
-    price: 15000,
+    price: 100,
     description: 'Ideal for MVPs and smaller web applications',
     features: [
       'Up to 3 months of development',
