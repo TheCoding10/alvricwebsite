@@ -38,13 +38,13 @@ const testimonials = [
   {
     name: 'James Green',
     company: 'Door Deluxe LLC',
-    quote: 'Alvric delivered an exceptional custom platform that transformed our business operations. Their team is incredibly talented and responsive.',
+    quote: 'The AI automation solution they built cut our processing time by 80%. Professional, efficient, and results-driven.',
     image: 'https://i.imgur.com/bBM3ZnP.jpg',
   },
   {
     name: 'Alexander Garcia',
     company: 'Garcia & Pena General Contracting',
-    quote: 'The AI automation solution they built cut our processing time by 80%. Professional, efficient, and results-driven.',
+    quote: 'Alvric delivered an exceptional custom platform that transformed our business operations. Their team is incredibly talented and responsive.',
     image: 'https://i.imgur.com/VjflLJp.jpeg',
   },
   {
