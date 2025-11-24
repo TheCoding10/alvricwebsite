@@ -23,7 +23,7 @@ const tiers = [
   {
     name: 'Growth',
     subtitle: 'Most popular',
-    price: 50000,
+    price: 500,
     description: 'Comprehensive solution for growing businesses',
     features: [
       'Up to 4-6 months of development',
