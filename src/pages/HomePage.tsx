@@ -62,7 +62,7 @@ export function HomePage() {
         <div className="max-w-6xl mx-auto text-center">
           <div className="animate-fadeInUp mb-8">
             <span className="inline-block px-4 py-2 bg-gray-100 rounded-full text-sm font-medium text-gray-700 mb-6">
-              Next-Generation Development
+              Alvric Technologies
             </span>
           </div>
 
