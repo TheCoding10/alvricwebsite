@@ -56,7 +56,7 @@ export function ContactPage() {
               {
                 icon: MapPin,
                 label: 'Office',
-                value: 'San Francisco, CA',
+                value: 'Providence, RI',
               },
             ].map((contact, index) => (
               <div key={index} className="bg-gray-50 p-8 rounded-2xl border border-gray-200 text-center">
