@@ -143,7 +143,7 @@ export function HomePage() {
             {[
               { label: 'Expert Team', value: 'World-class developers and designers' },
               { label: 'Innovation First', value: 'Cutting-edge technologies and methodologies' },
-              { label: 'Proven Track Record', value: '500+ successful projects delivered' },
+              { label: 'Proven Track Record', value: '20+ successful projects delivered' },
               { label: '24/7 Support', value: 'Dedicated support throughout your journey' },
             ].map((item, index) => (
               <div key={index} className="bg-white p-8 rounded-xl border border-gray-200">
