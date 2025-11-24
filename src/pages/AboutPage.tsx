@@ -17,7 +17,7 @@ export function AboutPage() {
             <div>
               <h2 className="text-4xl font-bold text-gray-900 mb-6">Our Story</h2>
               <p className="text-gray-700 text-lg leading-relaxed mb-4">
-                Founded on the belief that great software changes the world, Alvric Technologies has been at the forefront of digital innovation for over 15 years. We started with a simple mission: build exceptional software that solves real problems for real businesses.
+                Alvric Technologies began with a simple belief: small businesses deserve the same high-quality technology that major companies use without the complexity or cost barriers. What started as helping local business owners in our community with better websites, smoother operations, and modern digital tools quickly grew into a mission-driven software company.
               </p>
               <p className="text-gray-700 text-lg leading-relaxed mb-4">
                 Today, we're a team of 150+ talented developers, designers, and strategists working on everything from custom web applications to AI-powered automation systems. We've delivered over 500 projects across industries, from startups to Fortune 500 companies.
