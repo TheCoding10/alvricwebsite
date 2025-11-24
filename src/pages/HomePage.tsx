@@ -45,7 +45,7 @@ const testimonials = [
     name: 'Sarah Chen',
     company: 'InnovateLabs',
     quote: 'The AI automation solution they built cut our processing time by 80%. Professional, efficient, and results-driven.',
-    image: 'https://imgur.com/a/svhTbBb',
+    image: 'https://imgur.com/VjflLJp',
   },
   {
     name: 'Michael Rodriguez',
