@@ -1,5 +1,6 @@
 import { ArrowRight, Zap, Shield, TrendingUp, Users, Globe, Code } from 'lucide-react';
 import { Link } from 'react-router-dom';
+import { Hero } from '../components/Hero';
 
 const services = [
   {
@@ -58,55 +59,7 @@ const testimonials = [
 export function HomePage() {
   return (
     <div className="pt-20">
-      <section className="min-h-screen flex items-center justify-center bg-gradient-to-b from-white via-gray-50 to-white px-4 sm:px-6 lg:px-8">
-        <div className="max-w-6xl mx-auto text-center">
-          <div className="animate-fadeInUp mb-8">
-            <span className="inline-block px-4 py-2 bg-gray-100 rounded-full text-sm font-medium text-gray-700 mb-6">
-              Alvric Technologies
-            </span>
-          </div>
-
-          <h1 className="text-6xl sm:text-7xl lg:text-8xl font-bold text-gray-900 mb-8 leading-tight animate-fadeInUp">
-            Transforming Ideas into{' '}
-            <span className="gradient-text">Powerful Software</span>
-          </h1>
-
-          <p className="text-xl sm:text-2xl text-gray-600 max-w-3xl mx-auto mb-12 leading-relaxed animate-slideInLeft">
-            Alvric Technologies builds modern, scalable, and high-performance digital products for businesses and startups that dare to innovate.
-          </p>
-
-          <div className="flex flex-col sm:flex-row gap-6 justify-center items-center mb-20 animate-slideInRight">
-            <Link
-              to="/contact"
-              className="group bg-gray-900 text-white px-8 py-4 rounded-lg hover:bg-gray-800 transition-all flex items-center gap-2 font-semibold shadow-lg hover:shadow-xl"
-            >
-              Book a Consultation
-              <ArrowRight size={20} className="group-hover:translate-x-1 transition-transform" />
-            </Link>
-            <Link
-              to="/services"
-              className="px-8 py-4 rounded-lg border-2 border-gray-300 text-gray-900 hover:border-gray-900 hover:bg-gray-50 transition-all font-semibold"
-            >
-              Explore Services
-            </Link>
-          </div>
-
-          <div className="grid grid-cols-3 gap-8 max-w-2xl mx-auto mb-20 text-center">
-            <div>
-              <div className="text-4xl font-bold text-gray-900 mb-2">20+</div>
-              <div className="text-gray-600 text-sm">Projects Delivered</div>
-            </div>
-            <div className="border-x border-gray-200">
-              <div className="text-4xl font-bold text-gray-900 mb-2">20+</div>
-              <div className="text-gray-600 text-sm">Team Members</div>
-            </div>
-            <div>
-              <div className="text-4xl font-bold text-gray-900 mb-2">7+</div>
-              <div className="text-gray-600 text-sm">Years Experience</div>
-            </div>
-          </div>
-        </div>
-      </section>
+      <Hero />
 
       <section className="py-20 px-4 sm:px-6 lg:px-8 bg-white">
         <div className="max-w-6xl mx-auto">
