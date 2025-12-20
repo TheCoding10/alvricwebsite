@@ -273,13 +273,6 @@ export function Hero() {
       <GlowingGlobe />
 
       <div className="hero-content max-w-4xl mx-auto text-center">
-        <div className="mb-8 animate-fadeInUp">
-          <div className="inline-block px-4 py-2 bg-white/5 border border-cyan-500/30 rounded-full text-sm font-medium text-cyan-300 backdrop-blur-md hover:bg-white/10 transition-all">
-            <span className="inline-block w-2 h-2 bg-cyan-400 rounded-full mr-2" />
-            Alvric Technologies
-          </div>
-        </div>
-
         <h1 className="text-5xl sm:text-6xl lg:text-7xl xl:text-8xl font-bold mb-8 leading-tight">
           <span className="text-white">Transforming Ideas into</span>
           <br />
