@@ -274,7 +274,7 @@ export function Hero() {
 
       <div className="hero-content max-w-4xl mx-auto text-center">
         <h1 className="text-5xl sm:text-6xl lg:text-7xl xl:text-8xl font-bold mb-8 leading-tight">
-          <span className="text-white">Transforming Ideas into</span>
+          <span className="text-white">Transforming Ideas Into</span>
           <br />
           <span className="bg-gradient-to-r from-cyan-400 via-blue-400 to-pink-400 bg-clip-text text-transparent drop-shadow-lg">
             Powerful Software
